@@ -1,0 +1,3 @@
+# PDCurses-game
+実行は直下のReleaseフォルダ内のexeファイルで行なってください。
+開発したプログラムのmain関数はPDCursesSampleのReleaseのPDCursesSample.cppにあります。
